@@ -1,5 +1,5 @@
 ---
-name: hello-world
+name: hello-world-test
 description: A simple subagent that greets the user
 allowed_tools: []
 ---
