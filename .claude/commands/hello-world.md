@@ -1,5 +1,5 @@
 ---
-description: A simple hello world slash command example
+description: A simple hello world slash command example -test
 argument-hint: [name]
 ---
 
