@@ -1,5 +1,5 @@
 ---
-name: hello-world
+name: hello-world-test
 description: A simple example skill that demonstrates Claude Code skill structure
 ---
 
